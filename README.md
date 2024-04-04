@@ -5,7 +5,7 @@ Welcome to HogwartsMagic Bot, your magical companion for all things enchanting a
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![Platform: Telegram](https://img.shields.io/badge/Platform-Telegram-blueviolet.svg) ![Magic Level: Over 9000](https://img.shields.io/badge/Magic_Level-Over_9000-yellowgreen.svg)
 
 <div align="center">
-  <img src="https://i.ibb.co/Jxs4CwM/Picsart-24-04-03-09-40-36-822.png" alt="Beedle the Bard">
+  <img src="https://i.ibb.co/56HZsB2/Picsart-24-04-03-09-40-36-822.png" alt="Sorting Hat">
 </div>
 
 ## Features
