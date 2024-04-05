@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/QMT8Gy7/fc84f831f095517e10a84b8d2cd176ea.jpg" alt="MysticWizardBot ">
 </div>
+
 # 🧙‍♂️ HogwartsMagic Bot
 
 Welcome to HogwartsMagic Bot, your magical companion for all things enchanting and mystical! 🌟
