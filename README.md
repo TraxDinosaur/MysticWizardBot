@@ -53,6 +53,10 @@ Welcome to HogwartsMagic Bot, your magical companion for all things enchanting a
 1. **Invite HogwartsMagic Bot to your Telegram group.**
 2. **Use the provided commands to interact with the bot and explore the magical world of Harry Potter!**
 
+## Wiki Integration
+
+For more in-depth information about the Harry Potter universe, visit our [Wiki](https://github.com/TraxDinosaur/MysticWizardBot/wiki)!
+
 ## Disclaimer
 
 This bot is not affiliated with or endorsed by J.K. Rowling, Warner Bros, or any associated parties. It is purely created for entertainment purposes within the Telegram platform.
