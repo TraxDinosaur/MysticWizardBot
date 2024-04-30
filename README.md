@@ -2,7 +2,7 @@
 
 Welcome to HogwartsMagic Bot, your magical companion for all things enchanting and mystical! 🌟
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![Platform: Telegram](https://img.shields.io/badge/Platform-Telegram-blueviolet.svg) ![Magic Level: Over 9000](https://img.shields.io/badge/Magic_Level-Over_9000-yellowgreen.svg)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![Platform: Telegram](https://img.shields.io/badge/Platform-Telegram-blueviolet.svg) ![Magic Level: Over 9000](https://img.shields.io/badge/Magic_Level-Over_9000-yellowgreen.svg)
 
 <div align="center">
   <img src="https://i.ibb.co/56HZsB2/Picsart-24-04-03-09-40-36-822.png" alt="Sorting Hat">
@@ -60,6 +60,10 @@ For more in-depth information about the Harry Potter universe, visit our [Wiki](
 ## Disclaimer
 
 This bot is not affiliated with or endorsed by J.K. Rowling, Warner Bros, or any associated parties. It is purely created for entertainment purposes within the Telegram platform.
+
+## License
+
+API-Prexy is licensed under the [CC BY-SA 4.0 License](LICENSE), granting you the freedom to wield its powers in your own enchantments.
 
 ## Credits
 
